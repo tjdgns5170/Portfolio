@@ -971,6 +971,14 @@
     .header-area{
         padding: 0 20px 0;
     }
+    .sec-2 .tomboy,
+    .sec-3 .levart,
+    .sec-4 .rolex{
+        width: 100vw;
+        height: 300px;
+        margin-left: 0;
+        margin-right: 0;
+    }
     .banner{
         width: 100vw;
         margin-left: 50px;
